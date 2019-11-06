@@ -1,18 +1,15 @@
 {
   "summary": {
-    "title": "test",
-    "owner": "me",
-    "description": "bla bla"
+    "title": "test"
   },
   "detail": {
     "contributors": [],
     "diagrams": [
       {
-        "title": "test diag",
+        "title": "test",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
       }
-    ],
-    "reviewer": "me"
+    ]
   }
 }
