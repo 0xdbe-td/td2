@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "test",
+    "owner": "me",
+    "description": "bla bla"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "me"
+  }
+}
