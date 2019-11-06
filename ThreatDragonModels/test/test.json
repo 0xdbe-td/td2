@@ -1,15 +1,22 @@
 {
   "summary": {
-    "title": "test"
+    "title": "test",
+    "owner": "test",
+    "description": "fqsdf"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "dibe"
+      }
+    ],
     "diagrams": [
       {
         "title": "test",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
       }
-    ]
+    ],
+    "reviewer": "dfqd"
   }
 }
